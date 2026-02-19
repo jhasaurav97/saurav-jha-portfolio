@@ -1,16 +1,84 @@
-# React + Vite
+# 🚀 Saurav Jha – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website showcasing my projects, skills, and freelance services as a Full Stack Developer.
 
-Currently, two official plugins are available:
+It highlights real-world applications, business websites, and scalable web solutions built using modern technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌐 Live Website
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉 https://YOUR-VERCEL-URL.vercel.app
 
-## Expanding the ESLint configuration
+(Replace with your live link after deployment)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 👨‍💻 About Me
+
+I am a Full Stack Developer specializing in the MERN stack and modern web technologies.  
+I build fast, secure, and scalable web applications for startups, small businesses, and entrepreneurs.
+
+My focus is on delivering clean UI, reliable backend systems, and performance-optimized solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: React.js, Vite, Tailwind CSS
+- Backend: Node.js, Express, FastAPI
+- Database: MongoDB, PostgreSQL
+- Tools: Git, GitHub, Vercel, Docker
+- Others: REST APIs, JWT, SEO Optimization
+
+---
+
+## 📂 Featured Projects
+
+- InsightForge (AI Research Platform)
+- Note Keeper App
+- HRMS Lite
+- Shopping Cart System
+- Best Buy Deals (E-Commerce)
+- Travel Pack Planner
+
+Each project includes live demos and source code.
+
+---
+
+## 💼 Services Offered
+
+- Business Website Development
+- Full Stack Web Applications
+- Bug Fixing & Performance Optimization
+- API Integration & Dashboard Development
+
+Starting from affordable pricing for startups and small businesses.
+
+---
+
+## 📬 Contact
+
+If you’d like to work together, feel free to reach out:
+
+- Email: jhasaurav593@gmail.com  
+- LinkedIn: https://linkedin.com/in/jha-saurav97  
+- GitHub: https://github.com/jhasaurav97  
+
+---
+
+## ⚙️ Local Setup
+
+To run this project locally:
+
+```bash
+git clone https://github.com/USERNAME/REPO_NAME.git
+cd REPO_NAME
+npm install
+npm run dev
+```
+
+## 📄 License
+
+- This project is open for learning and portfolio purposes.
+- All rights reserved © Saurav Jha.
