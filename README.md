@@ -1,84 +1,60 @@
-# 🚀 Saurav Jha – Developer Portfolio
+# Saurav Jha — Developer Portfolio
 
-This is my personal portfolio website showcasing my projects, skills, and freelance services as a Full Stack Developer.
+A personal portfolio built with React, Vite and TypeScript-friendly JavaScript tooling. The site presents selected professional work, personal projects, experience, technical skills and contact details.
 
-It highlights real-world applications, business websites, and scalable web solutions built using modern technologies.
+## Live site
 
----
+https://saurav-jha-portfolio.vercel.app/
 
-## 🌐 Live Website
+## Built with
 
-👉 https://saurav-jha-portfolio.vercel.app/
+- React 19
+- Vite 7
+- Motion for React
+- Three.js with React Three Fiber and Drei for the lightweight 3D hero scene
+- Lucide icons
+- Responsive CSS
 
-(Replace with your live link after deployment)
+## Portfolio sections
 
----
+- Introduction and contact links
+- About and engineering approach
+- Selected work: enterprise tender workflow, MindLedger, Atlas AI Financial Assistant and FotoOwl Headless Media SDK
+- Work experience and education
+- Technical skills across frontend, backend, databases, processing and cloud tooling
+- AI-assisted development workflow
+- Learning credentials and contact details
 
-## 👨‍💻 About Me
+## Project accuracy
 
-I am a Full Stack Developer specializing in the MERN stack and modern web technologies.  
-I build fast, secure, and scalable web applications for startups, small businesses, and entrepreneurs.
+The portfolio uses the employment dates, project descriptions, skills and education listed in my current resume. The tender management platform is identified as professional work at Aniston Technologies; it is not presented as a public open-source project. Personal project cards link to their available live products and source repositories.
 
-My focus is on delivering clean UI, reliable backend systems, and performance-optimized solutions.
+## Run locally
 
----
-
-## 🛠️ Tech Stack
-
-- Frontend: React.js, Vite, Tailwind CSS
-- Backend: Node.js, Express, FastAPI
-- Database: MongoDB, PostgreSQL
-- Tools: Git, GitHub, Vercel, Docker
-- Others: REST APIs, JWT, SEO Optimization
-
----
-
-## 📂 Featured Projects
-
-- InsightForge (AI Research Platform)
-- Note Keeper App
-- HRMS Lite
-- Shopping Cart System
-- Best Buy Deals (E-Commerce)
-- Travel Pack Planner
-
-Each project includes live demos and source code.
-
----
-
-## 💼 Services Offered
-
-- Business Website Development
-- Full Stack Web Applications
-- Bug Fixing & Performance Optimization
-- API Integration & Dashboard Development
-
-Starting from affordable pricing for startups and small businesses.
-
----
-
-## 📬 Contact
-
-If you’d like to work together, feel free to reach out:
-
-- Email: jhasaurav593@gmail.com  
-- LinkedIn: https://linkedin.com/in/jha-saurav97  
-- GitHub: https://github.com/jhasaurav97  
-
----
-
-## ⚙️ Local Setup
-
-To run this project locally:
+Requirements: Node.js 20+ and npm.
 
 ```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/jhasaurav97/saurav-jha-portfolio.git
+cd saurav-jha-portfolio
 npm install
 npm run dev
 ```
 
-## 📄 License
+Create a production build:
 
-- This project is open for learning and portfolio purposes.
-- All rights reserved © Saurav Jha.
+```bash
+npm run build
+npm run preview
+```
+
+## Deployment
+
+The repository is connected to Vercel. Changes pushed to the production branch are deployed through the Vercel Git integration.
+
+## Contact
+
+- Email: jhasaurav593@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jha-saurav97/
+- GitHub: https://github.com/jhasaurav97
+
+© Saurav Jha
