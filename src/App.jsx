@@ -16,10 +16,8 @@ import {
   Network,
   Server,
   Sparkles,
-  Terminal,
   Workflow,
   X,
-  Zap,
 } from "lucide-react";
 import { AnimatePresence, motion, useReducedMotion } from "motion/react";
 
