@@ -559,6 +559,7 @@ function App() {
             <div className="credential-item"><span>2023</span><div><strong>J.P. Morgan Software Engineering Virtual Experience</strong><p>Forage</p></div></div>
             <div className="credential-item"><span>2024</span><div><strong>Front-end Web Development Training</strong><p>Internshala · 92%</p></div></div>
             <div className="credential-item"><span>2023</span><div><strong>Full Stack Web Development With AI Training</strong><p>Internshala</p></div></div>
+            <div className="credential-item"><span>2023</span><div><strong>Internship & Job Preparation Training</strong><p>Internshala · 95% · Top Performer</p></div></div>
           </div>
         </section>
 
