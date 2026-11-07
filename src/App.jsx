@@ -403,7 +403,7 @@ function App() {
           <div className="stat-cell"><strong>19k<span>+</span></strong><span>tender records processed</span></div>
           <div className="stat-cell"><strong>31</strong><span>steps across an enterprise workflow</span></div>
           <div className="stat-cell"><strong>~30<span>%</span></strong><span>frontend performance improvement</span></div>
-          <div className="stat-cell"><strong>4<span>+</span></strong><span>years building and learning through code since 2024</span></div>
+          <div className="stat-cell"><strong>2<span>+</span></strong><span>years building and learning through code since 2024</span></div>
         </section>
 
         <section id="about" className="section-wrap content-section">
